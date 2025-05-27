@@ -22,9 +22,9 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ## 📈 Progresso Geral
 
-**3 de 8 aulas concluídas – 37,5% completo**
+**4 de 8 aulas concluídas – 50% completo**
 
-🟩🟩🟩⬜⬜⬜⬜⬜ 37,5%
+🟩🟩🟩🟩⬜⬜⬜⬜50%
 
 ---
 
@@ -64,8 +64,9 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 ├── notas/
 │   ├── 01-introducao.md
 │   ├── 02-fundamentos.md
-|   ├── 03-direitos.md
-|   ├── 04-bases-legais.md
+│   ├── 03-direitos.md
+│   ├── 04-bases-legais.md
+│   ├── 05-agentes-tratamento.md
 │   └── ...
 ├── referencias.md
 └── README.md
