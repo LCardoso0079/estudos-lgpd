@@ -13,4 +13,18 @@ Nesta aula, vamos entender quem são os agentes de tratamento definidos pela LGP
 
 ---
 
+## 👥 Quem são os agentes de tratamento? 
 
+A LGPD define dois principais agentes de tratamento de dados:
+
+### 🧭 Controlador
+Pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais. 
+
+🔍 Exemplo: Uma empresa que decide coletar dados de clientes para fins de marketing.
+
+### 🛠️ Operador
+Pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+
+🔍 Exemplo: Uma empresa de TI contratada para armazenar dados em um servidor.
+
+---
