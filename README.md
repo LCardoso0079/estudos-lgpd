@@ -57,6 +57,12 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ---
 
+## 🤝 Contribuindo
+
+📘 [Guia de Contribuição – Repositório LGPD](./documentos/guia-contribuicao.md)
+
+---
+
 ## 📁 Estrutura
 
 ```bash
