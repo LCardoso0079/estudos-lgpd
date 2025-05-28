@@ -15,16 +15,16 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 | 📘 Aula 4 - [Bases Legais para o Tratamento de Dados](./notas/04-bases-legais.md) | ✅ **Concluída** | 🗓️ 27/05/2025 |
 | 📘 Aula 5 - [Agentes de Tratamento e suas Responsabilidades](./notas/05-agentes.md) | ✅ **Concluída** | 🗓️ 28/05/2025 |
 | 📘 Aula 6 - [Segurança da Informação e Boas Práticas](./notas/06-seguranca.md) | ✅ **Concluída** | 🗓️ 28/05/2025 |
-| 📘 Aula 7 - [Penalidades e Fiscalização](./notas/07-penalidades.md) | 🔄 **Em andamento** | — |
-| 📘 Aula 8 - [Casos Práticos e Aplicações da LGPD](./notas/08-casos-praticos.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 7 - [Penalidades e Fiscalização](./notas/07-penalidades.md) | ✅ **Concluída** | 🗓️ 28/05/2025 |
+| 📘 Aula 8 - [Casos Práticos e Aplicações da LGPD](./notas/08-aplicacoes.md) | ✅ **Concluída** | 🗓️ 28/05/2025 |
 
 ---
 
 ## 📈 Progresso Geral
 
-**6 de 8 aulas concluídas – 75% completo**
+**8 de 8 aulas concluídas – 100% completo**
 
-🟩🟩🟩🟩🟩🟩⬜⬜ 75%
+🟩🟩🟩🟩🟩🟩🟩🟩 100%
 
 ---
 
@@ -70,6 +70,7 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 ├── README.md
 ├── referencias.md
 ├── documentos/
+│   ├── casos-praticos.md
 │   └── guia-contribuicao.md
 ├── notas/
 │   ├── 01-introducao.md
@@ -79,5 +80,5 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 │   ├── 05-agentes-tratamento.md
 │   ├── 06-seguranca-informacao.md
 │   ├── 07-penalidades.md
-│   └── 08-casos-praticos.md
+│   └── 08-aplicacoes.md
 
