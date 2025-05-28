@@ -13,8 +13,8 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 | 📘 Aula 2 - [Fundamentos e Princípios da LGPD](./notas/02-fundamentos.md)| ✅ **Concluída** | 🗓️ 21/05/2025 |
 | 📘 Aula 3 - [Direitos dos Titulares de Dados](./notas/03-direitos.md) | ✅ **Concluída** | 🗓️ 23/05/2025 |
 | 📘 Aula 4 - [Bases Legais para o Tratamento de Dados](./notas/04-bases-legais.md) | ✅ **Concluída** | 🗓️ 27/05/2025 |
-| 📘 Aula 5 - [Agentes de Tratamento e suas Responsabilidades](./notas/05-agentes.md) | 🔄 **Em andamento** | — |
-| 📘 Aula 6 - [Segurança da Informação e Boas Práticas](./notas/06-seguranca.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 5 - [Agentes de Tratamento e suas Responsabilidades](./notas/05-agentes.md) | ✅ **Concluída** | 🗓️ 27/05/2025 |
+| 📘 Aula 6 - [Segurança da Informação e Boas Práticas](./notas/06-seguranca.md) | 🔄 **Em andamento** | — ||
 | 📘 Aula 7 - [Penalidades e Fiscalização](./notas/07-penalidades.md) | ⏹️ **Não iniciado** | — |
 | 📘 Aula 8 - [Casos Práticos e Aplicações da LGPD](./notas/08-casos-praticos.md) | ⏹️ **Não iniciado** | — |
 
@@ -22,9 +22,9 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ## 📈 Progresso Geral
 
-**4 de 8 aulas concluídas – 50% completo**
+**5 de 8 aulas concluídas – 62% completo**
 
-🟩🟩🟩🟩⬜⬜⬜⬜50%
+🟩🟩🟩🟩🟩⬜⬜⬜62%
 
 ---
 
@@ -67,6 +67,8 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 │   ├── 03-direitos.md
 │   ├── 04-bases-legais.md
 │   ├── 05-agentes-tratamento.md
-│   └── ...
+│   ├── 06-seguranca-informacao.md
+│   ├── 07-penalidades.md
+│   └── 08-casos-praticos.md
 ├── referencias.md
 └── README.md
