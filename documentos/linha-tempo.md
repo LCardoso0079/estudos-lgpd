@@ -15,6 +15,7 @@ Este documento apresenta os principais marcos históricos e legais da Lei Geral 
 7. 🧾 [2022 – ANPD vira autarquia e aplica sanções](#-2022)
 8. 🧩 [2023 – Normas para pequenos agentes e avanços técnicos](#-2023)
 9. 🔄 [Atualizações Recentes (2024–2025)](#-atualizações-recentes-20242025)
+10. 📎 [Referências complementares](#-referências-complementares)  
 
 ---
 
@@ -74,27 +75,10 @@ Este documento apresenta os principais marcos históricos e legais da Lei Geral 
 
 ---
 
-## 📎 Referências
+## 📎 Referências complementares
 
-## 1. 📜 Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD)
+📄 [LGPD - Lei nº 13.709/2018 (Planalto)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) — Fundamentos no Art. 2º
 
-Link oficial no Planalto:  
-🔗 [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
+📘 [Resoluções e Guias da ANPD](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes) — Resoluções nº 1, 2, 4 e demais documentos oficiais
 
----
-
-## 2. 📘 Resoluções, Guias e Orientações da ANPD (Autoridade Nacional de Proteção de Dados)
-
-Página oficial da ANPD:  
-🔗 [https://www.gov.br/anpd/pt-br/documentos-e-publicacoes](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes)
-
-*Inclui resoluções como a Resolução CD/ANPD nº 1, nº 2, nº 4, entre outras.*
-
----
-
-## 3. 📰 Notícias, Atualizações e Cronogramas Oficiais sobre LGPD e ANPD
-
-Portal de notícias da ANPD:  
-🔗 [https://www.gov.br/anpd/pt-br/assuntos/noticias](https://www.gov.br/anpd/pt-br/assuntos/noticias)
-
----
+📰 [Notícias e atualizações da ANPD](https://www.gov.br/anpd/pt-br/assuntos/noticias) — Cronogramas, orientações e novidades da Autoridade
