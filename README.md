@@ -67,12 +67,12 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ```bash
 .
-├── README.md
-├── referencias.md
-├── documentos/
-│   ├── casos-praticos.md
-│   └── guia-contribuicao.md
-├── notas/
+├── README.md                         → Apresentação geral e progresso
+├── referencias.md                    → Materiais complementares
+├── documentos/                       → Guias e conteúdos extras
+│   ├── casos-praticos.md             → Casos reais aplicando a LGPD
+│   └── guia-contribuicao.md          → Como contribuir com o repositório
+├── notas/                            → Anotações das aulas
 │   ├── 01-introducao.md
 │   ├── 02-fundamentos.md
 │   ├── 03-direitos.md
@@ -81,4 +81,10 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 │   ├── 06-seguranca-informacao.md
 │   ├── 07-penalidades.md
 │   └── 08-aplicacoes.md
-
+├── .github/                          → Templates de colaboração
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   │   └── general_issue.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── CONTRIBUTING.md
