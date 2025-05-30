@@ -9,12 +9,12 @@ Este documento apresenta os principais marcos históricos e legais da Lei Geral 
 1. 🕰️ [2010 – Início dos debates sobre privacidade](#-2010)
 2. 🇪🇺 [2016 – Influência do GDPR na LGPD](#-2016)
 3. 🏛️ [2018 – Sancionada a LGPD](#-2018)
-4. 🏢 [2019 – Criação da ANPD e Decreto nº 10.046](#-2019--criação-da-anpd-e-decreto-nº-10046)
-5. 📜 [2020 – LGPD entra em vigor e ANPD é instituída](#-2020--lgpd-entra-em-vigor-e-anpd-é-instituída)
-6. ⚖️ [2021 – Início das sanções administrativas](#-2021--início-das-sanções-administrativas)
-7. 🧾 [2022 – ANPD vira autarquia e aplica sanções](#-2022--anpd-vira-autarquia-e-aplica-sanções)
-8. 🧩 [2023 – Normas para pequenos agentes e avanços técnicos](#-2023--normas-para-pequenos-agentes-e-avanços-técnicos)
-9. 🔄 [2024–2025 – Atualizações recentes](#-20242025--atualizações-recentes)
+4. 🏢 [2019 – Criação da ANPD e Decreto nº 10.046](#-2019)
+5. 📜 [2020 – LGPD entra em vigor e ANPD é instituída](#-2020)
+6. ⚖️ [2021 – Início das sanções administrativas](#-2021)
+7. 🧾 [2022 – ANPD vira autarquia e aplica sanções](#-2022)
+8. 🧩 [2023 – Normas para pequenos agentes e avanços técnicos](#-2023)
+9. 🔄 [Atualizações Recentes (2024–2025)](#-atualizações-recentes-20242025)
 
 ---
 
@@ -76,8 +76,25 @@ Este documento apresenta os principais marcos históricos e legais da Lei Geral 
 
 ## 📎 Referências
 
-- Lei nº 13.709/2018 (LGPD)
-- Resoluções e orientações da ANPD
-- Notícias e cronogramas oficiais
+## 1. 📜 Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD)
+
+Link oficial no Planalto:  
+🔗 [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
+
+---
+
+## 2. 📘 Resoluções, Guias e Orientações da ANPD (Autoridade Nacional de Proteção de Dados)
+
+Página oficial da ANPD:  
+🔗 [https://www.gov.br/anpd/pt-br/documentos-e-publicacoes](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes)
+
+*Inclui resoluções como a Resolução CD/ANPD nº 1, nº 2, nº 4, entre outras.*
+
+---
+
+## 3. 📰 Notícias, Atualizações e Cronogramas Oficiais sobre LGPD e ANPD
+
+Portal de notícias da ANPD:  
+🔗 [https://www.gov.br/anpd/pt-br/assuntos/noticias](https://www.gov.br/anpd/pt-br/assuntos/noticias)
 
 ---
