@@ -7,9 +7,9 @@ Esses direitos garantem **transparência, controle e segurança** no tratamento 
 
 ## 📌 Índice
 
-- [🧑‍⚖️ Quem é o titular de dados?](#quem-é-o-titular-de-dados)
-- [🛡️ Direitos dos titulares de dados](#direitos-dos-titulares-de-dados)
-- [📎 Referências complementares](#referências-complementares)
+- [🧑‍⚖️ Quem é o titular de dados?](#-quem-é-o-titular-de-dados)
+- [🛡️ Direitos dos titulares de dados](#-direitos-dos-titulares-de-dados)
+- [📎 Referências complementares](#-referências-complementares)
 
 ---
 
