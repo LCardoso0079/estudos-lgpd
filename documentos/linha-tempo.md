@@ -6,9 +6,9 @@ Este documento apresenta os principais marcos históricos e legais da Lei Geral 
 
 ## 📌 Índice
 
-1. 🕰️ [2010 – Início dos debates sobre privacidade](#-2010--início-dos-debates-sobre-privacidade)
-2. 🇪🇺 [2016 – Influência do GDPR na LGPD](#-2016--influência-do-gdpr-na-lgpd)
-3. 🏛️ [2018 – Sancionada a LGPD](#-2018--sancionada-a-lgpd)
+1. 🕰️ [2010 – Início dos debates sobre privacidade](#-2010)
+2. 🇪🇺 [2016 – Influência do GDPR na LGPD](#-2016)
+3. 🏛️ [2018 – Sancionada a LGPD](#-2018)
 4. 🏢 [2019 – Criação da ANPD e Decreto nº 10.046](#-2019--criação-da-anpd-e-decreto-nº-10046)
 5. 📜 [2020 – LGPD entra em vigor e ANPD é instituída](#-2020--lgpd-entra-em-vigor-e-anpd-é-instituída)
 6. ⚖️ [2021 – Início das sanções administrativas](#-2021--início-das-sanções-administrativas)
