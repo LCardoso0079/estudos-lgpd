@@ -6,7 +6,7 @@ Este glossário reúne os principais termos e definições usados na LGPD (Lei n
 
 ## 📌 Índice
 
-- [🔠 A](#a)
+- [🔠 A](#-a)
 - [🅱️ B](#b)
 - [🌐 C](#c)
 - [📊 D](#d)
@@ -25,9 +25,9 @@ Este glossário reúne os principais termos e definições usados na LGPD (Lei n
 - [📋 R](#r)
 - [🔒 S](#s)
 - [📂 T](#t)
-- [📈 U](#u)
-- [✅ V](#v)
-- [⚠️ Z](#z)
+- [📈 U](-#u)
+- [✅ V](-v)
+- [⚠️ Z](-#-z)
 
 ---
 
